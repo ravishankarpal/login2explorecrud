@@ -17,7 +17,9 @@
 - "REmove" from remove commond we can delete data in JsonPowerDB. It is based on "IML(Index Manipulation Language)".
 # Sample output
 ![image](https://user-images.githubusercontent.com/55776769/127749984-25e10419-2f60-4471-b973-1ccf0e725423.png)
+
 ![index](https://user-images.githubusercontent.com/55776769/127749993-66840f03-79f0-4769-bef9-311da9eaf90e.png)
+
 ![output (2)](https://user-images.githubusercontent.com/55776769/127750008-1cc7ef09-df00-4338-8a4f-e66652d9840a.png)
 
 
