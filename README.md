@@ -10,4 +10,9 @@
 - Built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 - Low level (raw) form of data and is also human readable.
 - Helps developers in faster coding, in-turn reduces development cost.
+ # Using JsonPowerDB on my mini project
+- "PUT" from put commond we can  insert data in  JsonPowerDB. It is based on "IML(Index Manipulation Language)".
+- "GET" from get commond we can retrieve data from JsonPowerDB. It is based on "IRL(Index Retrieval Language)".
+- "UPDATE" from update commond we can update data in JsonPowerDB. It is based on "IML(Index Manipulation Language)".
+- "REmove" from remove commond we can delete data in JsonPowerDB. It is based on "IML(Index Manipulation Language)".
 
